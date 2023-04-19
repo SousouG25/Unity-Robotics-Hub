@@ -1,0 +1,6 @@
+niryo_one_ros/mcp_can_rpi
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/mcp_can_rpi/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/mcp_can_rpi/share/mcp_can_rpi/cmake/mcp_can_rpiConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/mcp_can_rpi/share/mcp_can_rpi/cmake/mcp_can_rpiConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/mcp_can_rpi/cmake/mcp_can_rpiConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/mcp_can_rpi/lib/libmcp_can_rpi.so /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/libmcp_can_rpi.so
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/mcp_can_rpi/lib/pkgconfig/mcp_can_rpi.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/mcp_can_rpi.pc

@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using RosMessageTypes.Geometry;
 using RosMessageTypes.NiryoMoveit;
@@ -23,8 +24,9 @@ public class TrajectoryPlanner : MonoBehaviour
     GameObject m_NiryoOne;
     public GameObject NiryoOne { get => m_NiryoOne; set => m_NiryoOne = value; }
     [SerializeField]
-    GameObject m_Target;
-    public GameObject Target { get => m_Target; set => m_Target = value; }
+    GameObject[] m_Targets = new GameObject[1];
+    public List<GameObject> Targets { get => m_Targets.ToList(); set => m_Targets = value.ToArray(); }
+
     [SerializeField]
     GameObject m_TargetPlacement;
     public GameObject TargetPlacement { get => m_TargetPlacement; set => m_TargetPlacement = value; }
@@ -120,19 +122,35 @@ public class TrajectoryPlanner : MonoBehaviour
     ///     Call the MoverService using the ROSConnection and if a trajectory is successfully planned,
     ///     execute the trajectories in a coroutine.
     /// </summary>
+
+
+    // This function is actually what call the service to get the checkpoints
+    // By making a request and send it using the ROSConnection to the MoverService to generate these checkpoints
+    //
     public void PublishJoints()
     {
         var request = new MoverServiceRequest();
         request.joints_input = CurrentJointConfig();
 
-        // Pick Pose
-        request.pick_pose = new PoseMsg
-        {
-            position = (m_Target.transform.position + m_PickPoseOffset).To<FLU>(),
+        request.pick_pose = new PoseArrayMsg();
 
+        List<PoseMsg> pickPoses = new List<PoseMsg>();
+        foreach(var target in m_Targets)
+        {
+          var pickPose = new PoseMsg
+          {
+            position = (target.transform.position + m_PickPoseOffset).To<FLU>(),
             // The hardcoded x/z angles assure that the gripper is always positioned above the target cube before grasping.
-            orientation = Quaternion.Euler(90, m_Target.transform.eulerAngles.y, 0).To<FLU>()
-        };
+            orientation = Quaternion.Euler(90, target.transform.eulerAngles.y, 0).To<FLU>()
+          };
+          pickPoses.Add(pickPose);
+        }
+
+        PoseMsg[] posesArray = new PoseMsg[pickPoses.Count];
+        pickPoses.CopyTo(posesArray);
+
+        request.pick_pose.poses = posesArray;
+
 
         // Place Pose
         request.place_pose = new PoseMsg
@@ -141,6 +159,7 @@ public class TrajectoryPlanner : MonoBehaviour
             orientation = m_PickOrientation.To<FLU>()
         };
 
+        // Call for the ROSConnection and if a trajectory is successfully planned execute the trajectories in a coroutine.
         m_Ros.SendServiceMessage<MoverServiceResponse>(m_RosServiceName, request, TrajectoryResponse);
     }
 

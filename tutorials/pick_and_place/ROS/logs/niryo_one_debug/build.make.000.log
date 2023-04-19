@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target dxl_debug_tools[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/dxl_debug_tools.dir/src/dxl_debug.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dxl_debug_tools.dir/src/dxl_tools.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/lib/niryo_one_debug/dxl_debug_tools[0m
+[100%] Built target dxl_debug_tools

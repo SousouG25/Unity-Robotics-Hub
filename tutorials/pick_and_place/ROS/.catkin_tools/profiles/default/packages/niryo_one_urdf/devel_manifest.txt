@@ -1,0 +1,5 @@
+niryo_one_urdf
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_urdf/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_urdf/share/niryo_one_urdf/cmake/niryo_one_urdfConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_urdf/cmake/niryo_one_urdfConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_urdf/share/niryo_one_urdf/cmake/niryo_one_urdfConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_urdf/cmake/niryo_one_urdfConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_urdf/lib/pkgconfig/niryo_one_urdf.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/niryo_one_urdf.pc

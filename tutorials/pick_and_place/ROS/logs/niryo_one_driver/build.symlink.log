@@ -1,0 +1,4 @@
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_driver/cmake/niryo_one_driverConfig.cmake
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_driver/cmake/niryo_one_driverConfig-version.cmake
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/niryo_one_driver/niryo_one_driver
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/niryo_one_driver.pc

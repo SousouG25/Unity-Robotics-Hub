@@ -1,0 +1,6 @@
+niryo_one_ros/dynamixel_sdk
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/dynamixel_sdk/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/dynamixel_sdk/lib/libdynamixel_sdk.so /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/libdynamixel_sdk.so
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/dynamixel_sdk/lib/pkgconfig/dynamixel_sdk.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/dynamixel_sdk.pc

@@ -1,0 +1,21 @@
+[35m[1mScanning dependencies of target niryo_one_driver[0m
+[  6%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/utils/change_hardware_version.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/utils/motor_offset_file_handler.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_driver/niryo_one_can_driver.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_driver/dxl_driver.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_driver/xl320_driver.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_driver/xl430_driver.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_comm/dxl_communication.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_comm/can_communication.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_comm/niryo_one_communication.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/hw_comm/fake_communication.cpp.o[0m
+[01m[K/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/src/niryo_one_ros/niryo_one_driver/src/hw_comm/can_communication.cpp:[m[K In member function ‘[01m[Kint CanCommunication::calibrateMotors(int)[m[K’:
+[01m[K/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/src/niryo_one_ros/niryo_one_driver/src/hw_comm/can_communication.cpp:783:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  783 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[ 73%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/ros_interface.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/rpi_diagnostics.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/niryo_one_hardware_interface.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/niryo_one_driver.dir/src/niryo_one_driver_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_driver/lib/niryo_one_driver/niryo_one_driver[0m
+[100%] Built target niryo_one_driver

@@ -1,0 +1,4 @@
+[01m[K/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/src/niryo_one_ros/niryo_one_driver/src/hw_comm/can_communication.cpp:[m[K In member function ‘[01m[Kint CanCommunication::calibrateMotors(int)[m[K’:
+[01m[K/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/src/niryo_one_ros/niryo_one_driver/src/hw_comm/can_communication.cpp:783:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  783 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

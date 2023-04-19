@@ -1,0 +1,6 @@
+niryo_one_ros/niryo_one_camera
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_camera/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_camera/share/niryo_one_camera/cmake/niryo_one_cameraConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_camera/cmake/niryo_one_cameraConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_camera/share/niryo_one_camera/cmake/niryo_one_cameraConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_camera/cmake/niryo_one_cameraConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_camera/lib/python3/dist-packages/niryo_one_camera/__init__.py /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/python3/dist-packages/niryo_one_camera/__init__.py
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_camera/lib/pkgconfig/niryo_one_camera.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/niryo_one_camera.pc

@@ -1,5 +1,6 @@
 using System;
 using RosMessageTypes.Geometry;
+using System.Collections.Generic;
 using RosMessageTypes.NiryoMoveit;
 using Unity.Robotics.ROSTCPConnector;
 using Unity.Robotics.ROSTCPConnector.ROSGeometry;
@@ -20,7 +21,8 @@ public class SourceDestinationPublisher : MonoBehaviour
     [SerializeField]
     GameObject m_NiryoOne;
     [SerializeField]
-    GameObject m_Target;
+    GameObject[] m_Targets = new GameObject[1];
+    //public List<GameObject> Targets { get => m_Targets.ToList(); set => m_Targets = value.ToArray(); }
     [SerializeField]
     GameObject m_TargetPlacement;
     readonly Quaternion m_PickOrientation = Quaternion.Euler(90, 90, 0);
@@ -57,11 +59,40 @@ public class SourceDestinationPublisher : MonoBehaviour
         }
 
         // Pick Pose
-        sourceDestinationMessage.pick_pose = new PoseMsg
+        // sourceDestinationMessage.pick_pose = new PoseMsg
+        // {
+        //     position = m_Target.transform.position.To<FLU>(),
+        //     orientation = Quaternion.Euler(90, m_Target.transform.eulerAngles.y, 0).To<FLU>()
+        // };
+
+
+
+
+
+        sourceDestinationMessage.pick_pose = new PoseArrayMsg();
+
+        List<PoseMsg> pickPoses = new List<PoseMsg>();
+        foreach(var target in m_Targets)
         {
-            position = m_Target.transform.position.To<FLU>(),
-            orientation = Quaternion.Euler(90, m_Target.transform.eulerAngles.y, 0).To<FLU>()
-        };
+          var pickPose = new PoseMsg
+          {
+            position = (target.transform.position).To<FLU>(),
+            // The hardcoded x/z angles assure that the gripper is always positioned above the target cube before grasping.
+            orientation = Quaternion.Euler(90, target.transform.eulerAngles.y, 0).To<FLU>()
+          };
+          pickPoses.Add(pickPose);
+        }
+
+        PoseMsg[] posesArray = new PoseMsg[pickPoses.Count];
+        pickPoses.CopyTo(posesArray);
+
+        sourceDestinationMessage.pick_pose.poses = posesArray;
+
+
+
+
+
+
 
         // Place Pose
         sourceDestinationMessage.place_pose = new PoseMsg

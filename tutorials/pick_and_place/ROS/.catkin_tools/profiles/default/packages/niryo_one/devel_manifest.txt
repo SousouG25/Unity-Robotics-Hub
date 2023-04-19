@@ -1,0 +1,2 @@
+niryo_one_ros/niryo_one
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock

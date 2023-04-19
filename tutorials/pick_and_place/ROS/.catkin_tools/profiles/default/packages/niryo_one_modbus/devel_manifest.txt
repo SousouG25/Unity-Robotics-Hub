@@ -1,0 +1,6 @@
+niryo_one_ros/niryo_one_modbus
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_modbus/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_modbus/share/niryo_one_modbus/cmake/niryo_one_modbusConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_modbus/cmake/niryo_one_modbusConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_modbus/share/niryo_one_modbus/cmake/niryo_one_modbusConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_modbus/cmake/niryo_one_modbusConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_modbus/lib/python3/dist-packages/niryo_one_modbus/__init__.py /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/python3/dist-packages/niryo_one_modbus/__init__.py
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_modbus/lib/pkgconfig/niryo_one_modbus.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/niryo_one_modbus.pc

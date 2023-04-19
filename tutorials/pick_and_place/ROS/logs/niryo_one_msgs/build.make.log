@@ -1,0 +1,653 @@
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_Trajectory[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_DebugColorDetection[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_DebugColorDetection
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_Trajectory
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_DebugMarkers[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceRobotPoses[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_DebugMarkers
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_UpdateConveyorId[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceRobotPoses
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ControlConveyor[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_UpdateConveyorId
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ControlConveyor
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsFeedback[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SoftwareVersion[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveAction[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SoftwareVersion
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveAction
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetSequenceList[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveResult
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ConveyorFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetSequenceList
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceAction[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ConveyorFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceActionFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceAction
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetInt[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceActionFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ManageProcess[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_PingDxlTool[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetInt
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceAutorunStatus[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ManageProcess
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetInt[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_PingDxlTool
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_CloseGripper[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceAutorunStatus
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_PushAirVacuumPump[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetInt
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetDigitalIO[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_CloseGripper
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ManagePosition[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_PushAirVacuumPump
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetPositionList[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetDigitalIO
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ManageTrajectory[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ManagePosition
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetConveyor[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetPositionList
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_TakePicture[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ManageTrajectory
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceList[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetConveyor
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetTargetPose[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_TakePicture
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_EditWorkspace[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceList
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetTargetPose
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetString[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ChangeMotorConfig[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_EditWorkspace
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetString
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveCommand[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceRatio[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ChangeMotorConfig
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_LogStatus[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveCommand
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_TrajectoryPlan[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetWorkspaceRatio
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceActionResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_LogStatus
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ProcessState[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_TrajectoryPlan
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceActionResult
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ProcessState
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsActionResult
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ChangeHardwareVersion[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceResult
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolActionResult[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_HardwareStatus[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ChangeHardwareVersion
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolActionResult
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_HardwareStatus
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_EditGrip[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolActionGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionResult
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_EditGrip
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetSequenceAutorun[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolActionGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetDigitalIO[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolAction[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetSequenceAutorun
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetDigitalIO
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolAction
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetCalibrationCam[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolCommand[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolResult
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_OpenGripper[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetCalibrationCam
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetTrajectoryList[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolCommand
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolActionFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_OpenGripper
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMove[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetTrajectoryList
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ObjectPose[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolActionFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ShiftPose[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMove
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotState[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ObjectPose
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionFeedback[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ShiftPose
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ManageSequence[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotState
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionFeedback
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SequenceActionGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ManageSequence
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionGoal[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsResult
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SequenceActionGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ToolGoal[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_ObjDetection[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RobotMoveActionGoal
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_GetCalibrationCam[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ToolGoal
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_ObjDetection
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SendCustomDxlValue[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_SetLeds[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_GetCalibrationCam
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SendCustomDxlValue
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_SetLeds
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsAction[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_PullAirVacuumPump[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_RPY[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_PullAirVacuumPump
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_JoystickJointsAction
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_DigitalIOState[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_RPY
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_Sequence[0m
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_MatlabMoveResult[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_DigitalIOState
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_Sequence
+[35m[1mScanning dependencies of target _niryo_one_msgs_generate_messages_check_deps_Position[0m
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_MatlabMoveResult
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _niryo_one_msgs_generate_messages_check_deps_Position
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[  0%] Built target moveit_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[  0%] Built target moveit_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages_nodejs[0m
+[  0%] [34m[1mGenerating Javascript code from niryo_one_msgs/RPY.msg[0m
+[  1%] [34m[1mGenerating Javascript code from niryo_one_msgs/ShiftPose.msg[0m
+[  1%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotState.msg[0m
+[  1%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveCommand.msg[0m
+[  1%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolCommand.msg[0m
+[  1%] [34m[1mGenerating Javascript code from niryo_one_msgs/ProcessState.msg[0m
+[  2%] [34m[1mGenerating Javascript code from niryo_one_msgs/HardwareStatus.msg[0m
+[  2%] [34m[1mGenerating Javascript code from niryo_one_msgs/LogStatus.msg[0m
+[  2%] [34m[1mGenerating Javascript code from niryo_one_msgs/DigitalIOState.msg[0m
+[  2%] [34m[1mGenerating Javascript code from niryo_one_msgs/SoftwareVersion.msg[0m
+[  3%] [34m[1mGenerating Javascript code from niryo_one_msgs/Sequence.msg[0m
+[  3%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceAutorunStatus.msg[0m
+[  3%] [34m[1mGenerating Javascript code from niryo_one_msgs/TrajectoryPlan.msg[0m
+[  3%] [34m[1mGenerating Javascript code from niryo_one_msgs/MatlabMoveResult.msg[0m
+[  4%] [34m[1mGenerating Javascript code from niryo_one_msgs/Position.msg[0m
+[  4%] [34m[1mGenerating Javascript code from niryo_one_msgs/Trajectory.msg[0m
+[  4%] [34m[1mGenerating Javascript code from niryo_one_msgs/ObjectPose.msg[0m
+[  4%] [34m[1mGenerating Javascript code from niryo_one_msgs/ConveyorFeedback.msg[0m
+[  4%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsAction.msg[0m
+[  5%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsActionGoal.msg[0m
+[  5%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsActionResult.msg[0m
+[  5%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsActionFeedback.msg[0m
+[  5%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsGoal.msg[0m
+[  6%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsResult.msg[0m
+[  6%] [34m[1mGenerating Javascript code from niryo_one_msgs/JoystickJointsFeedback.msg[0m
+[  6%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveAction.msg[0m
+[  6%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveActionGoal.msg[0m
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages_py[0m
+[  6%] [34m[1mGenerating Python from MSG niryo_one_msgs/RPY[0m
+[  6%] [34m[1mGenerating Python from MSG niryo_one_msgs/ShiftPose[0m
+[  7%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveActionResult.msg[0m
+[  7%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveActionFeedback.msg[0m
+[  7%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveResult.msg[0m
+[  7%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveGoal.msg[0m
+[  7%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMoveFeedback.msg[0m
+[  8%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolAction.msg[0m
+[  8%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotState[0m
+[  8%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolActionGoal.msg[0m
+[  8%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveCommand[0m
+[  8%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolActionResult.msg[0m
+[  9%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolCommand[0m
+[  9%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolActionFeedback.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolGoal.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolResult.msg[0m
+[ 10%] [34m[1mGenerating Python from MSG niryo_one_msgs/ProcessState[0m
+[ 10%] [34m[1mGenerating Javascript code from niryo_one_msgs/ToolFeedback.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceAction.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceActionGoal.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceActionResult.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceActionFeedback.msg[0m
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages_lisp[0m
+[ 11%] [34m[1mGenerating Lisp code from niryo_one_msgs/RPY.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceGoal.msg[0m
+[ 11%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceResult.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from niryo_one_msgs/ShiftPose.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotState.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG niryo_one_msgs/HardwareStatus[0m
+[ 12%] [34m[1mGenerating Javascript code from niryo_one_msgs/SequenceFeedback.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetInt.srv[0m
+[ 12%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveCommand.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolCommand.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from niryo_one_msgs/RobotMove.srv[0m
+[ 13%] [34m[1mGenerating Lisp code from niryo_one_msgs/ProcessState.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG niryo_one_msgs/LogStatus[0m
+[ 13%] [34m[1mGenerating Javascript code from niryo_one_msgs/ManageProcess.srv[0m
+[ 13%] [34m[1mGenerating Lisp code from niryo_one_msgs/HardwareStatus.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG niryo_one_msgs/DigitalIOState[0m
+[ 15%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetLeds.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from niryo_one_msgs/LogStatus.msg[0m
+[ 16%] [34m[1mGenerating Lisp code from niryo_one_msgs/DigitalIOState.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetInt.srv[0m
+[ 16%] [34m[1mGenerating Python from MSG niryo_one_msgs/SoftwareVersion[0m
+[ 16%] [34m[1mGenerating Javascript code from niryo_one_msgs/PingDxlTool.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from niryo_one_msgs/SoftwareVersion.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from niryo_one_msgs/OpenGripper.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from niryo_one_msgs/Sequence.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from niryo_one_msgs/CloseGripper.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from niryo_one_msgs/PullAirVacuumPump.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceAutorunStatus.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from niryo_one_msgs/TrajectoryPlan.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from niryo_one_msgs/PushAirVacuumPump.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from niryo_one_msgs/MatlabMoveResult.msg[0m
+[ 18%] [34m[1mGenerating Python from MSG niryo_one_msgs/Sequence[0m
+[ 18%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceAutorunStatus[0m
+[ 18%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetDigitalIO.srv[0m
+[ 18%] [34m[1mGenerating Lisp code from niryo_one_msgs/Position.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetDigitalIO.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from niryo_one_msgs/Trajectory.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetSequenceList.srv[0m
+[ 20%] [34m[1mGenerating Lisp code from niryo_one_msgs/ObjectPose.msg[0m
+[ 21%] [34m[1mGenerating Python from MSG niryo_one_msgs/TrajectoryPlan[0m
+[ 21%] [34m[1mGenerating Python from MSG niryo_one_msgs/MatlabMoveResult[0m
+[ 21%] [34m[1mGenerating Lisp code from niryo_one_msgs/ConveyorFeedback.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from niryo_one_msgs/ManageSequence.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetSequenceAutorun.srv[0m
+[ 21%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsAction.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from niryo_one_msgs/ManagePosition.srv[0m
+[ 21%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsActionGoal.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetPositionList.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsActionResult.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsActionFeedback.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG niryo_one_msgs/Position[0m
+[ 23%] [34m[1mGenerating Javascript code from niryo_one_msgs/ManageTrajectory.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsGoal.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetTrajectoryList.srv[0m
+[ 23%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsResult.msg[0m
+[ 23%] [34m[1mGenerating Lisp code from niryo_one_msgs/JoystickJointsFeedback.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from niryo_one_msgs/ChangeHardwareVersion.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from niryo_one_msgs/SendCustomDxlValue.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveAction.msg[0m
+[ 25%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveActionGoal.msg[0m
+[ 25%] [34m[1mGenerating Python from MSG niryo_one_msgs/Trajectory[0m
+[ 25%] [34m[1mGenerating Javascript code from niryo_one_msgs/ChangeMotorConfig.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetString.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveActionResult.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetCalibrationCam.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetCalibrationCam.srv[0m
+[ 26%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveActionFeedback.msg[0m
+[ 26%] [34m[1mGenerating Javascript code from niryo_one_msgs/ObjDetection.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from niryo_one_msgs/EditGrip.srv[0m
+[ 27%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveGoal.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from niryo_one_msgs/EditWorkspace.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetTargetPose.srv[0m
+[ 27%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveResult.msg[0m
+[ 27%] [34m[1mGenerating Python from MSG niryo_one_msgs/ObjectPose[0m
+[ 28%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetWorkspaceRatio.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetWorkspaceList.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMoveFeedback.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from niryo_one_msgs/TakePicture.srv[0m
+[ 28%] [34m[1mGenerating Javascript code from niryo_one_msgs/SetConveyor.srv[0m
+[ 28%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolAction.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from niryo_one_msgs/ControlConveyor.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from niryo_one_msgs/UpdateConveyorId.srv[0m
+[ 29%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolActionGoal.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from niryo_one_msgs/GetWorkspaceRobotPoses.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from niryo_one_msgs/DebugMarkers.srv[0m
+[ 30%] [34m[1mGenerating Python from MSG niryo_one_msgs/ConveyorFeedback[0m
+[ 31%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolActionResult.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from niryo_one_msgs/DebugColorDetection.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolActionFeedback.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolGoal.msg[0m
+[ 32%] Built target niryo_one_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages_cpp[0m
+[ 32%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RPY.msg[0m
+[ 33%] [34m[1mGenerating C++ code from niryo_one_msgs/RPY.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolResult.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from niryo_one_msgs/ToolFeedback.msg[0m
+[ 34%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsAction[0m
+[ 34%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ShiftPose.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceAction.msg[0m
+[ 34%] [34m[1mGenerating C++ code from niryo_one_msgs/ShiftPose.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotState.msg[0m
+[ 35%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceActionGoal.msg[0m
+[ 35%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceActionResult.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveCommand.msg[0m
+[ 35%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotState.msg[0m
+[ 35%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsActionGoal[0m
+[ 36%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceActionFeedback.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolCommand.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceGoal.msg[0m
+[ 36%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveCommand.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceResult.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ProcessState.msg[0m
+[ 36%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsActionResult[0m
+[ 36%] [34m[1mGenerating Lisp code from niryo_one_msgs/SequenceFeedback.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from niryo_one_msgs/HardwareStatus.msg[0m
+[ 37%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolCommand.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetInt.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from niryo_one_msgs/RobotMove.srv[0m
+[ 39%] [34m[1mGenerating EusLisp code from niryo_one_msgs/LogStatus.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsActionFeedback[0m
+[ 40%] [34m[1mGenerating C++ code from niryo_one_msgs/ProcessState.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from niryo_one_msgs/ManageProcess.srv[0m
+[ 40%] [34m[1mGenerating EusLisp code from niryo_one_msgs/DigitalIOState.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetLeds.srv[0m
+[ 40%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SoftwareVersion.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetInt.srv[0m
+[ 40%] [34m[1mGenerating C++ code from niryo_one_msgs/HardwareStatus.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsGoal[0m
+[ 41%] [34m[1mGenerating Lisp code from niryo_one_msgs/PingDxlTool.srv[0m
+[ 41%] [34m[1mGenerating EusLisp code from niryo_one_msgs/Sequence.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from niryo_one_msgs/OpenGripper.srv[0m
+[ 41%] [34m[1mGenerating C++ code from niryo_one_msgs/LogStatus.msg[0m
+[ 42%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceAutorunStatus.msg[0m
+[ 42%] [34m[1mGenerating Lisp code from niryo_one_msgs/CloseGripper.srv[0m
+[ 42%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsResult[0m
+[ 42%] [34m[1mGenerating Lisp code from niryo_one_msgs/PullAirVacuumPump.srv[0m
+[ 42%] [34m[1mGenerating EusLisp code from niryo_one_msgs/TrajectoryPlan.msg[0m
+[ 42%] [34m[1mGenerating C++ code from niryo_one_msgs/DigitalIOState.msg[0m
+[ 43%] [34m[1mGenerating Lisp code from niryo_one_msgs/PushAirVacuumPump.srv[0m
+[ 43%] [34m[1mGenerating EusLisp code from niryo_one_msgs/MatlabMoveResult.msg[0m
+[ 43%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetDigitalIO.srv[0m
+[ 44%] [34m[1mGenerating C++ code from niryo_one_msgs/SoftwareVersion.msg[0m
+[ 44%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetDigitalIO.srv[0m
+[ 44%] [34m[1mGenerating EusLisp code from niryo_one_msgs/Position.msg[0m
+[ 44%] [34m[1mGenerating Python from MSG niryo_one_msgs/JoystickJointsFeedback[0m
+[ 44%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetSequenceList.srv[0m
+[ 45%] [34m[1mGenerating EusLisp code from niryo_one_msgs/Trajectory.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from niryo_one_msgs/ManageSequence.srv[0m
+[ 45%] [34m[1mGenerating C++ code from niryo_one_msgs/Sequence.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetSequenceAutorun.srv[0m
+[ 46%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ObjectPose.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveAction[0m
+[ 47%] [34m[1mGenerating Lisp code from niryo_one_msgs/ManagePosition.srv[0m
+[ 47%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceAutorunStatus.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ConveyorFeedback.msg[0m
+[ 47%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetPositionList.srv[0m
+[ 47%] [34m[1mGenerating Lisp code from niryo_one_msgs/ManageTrajectory.srv[0m
+[ 47%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsAction.msg[0m
+[ 47%] [34m[1mGenerating C++ code from niryo_one_msgs/TrajectoryPlan.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveActionGoal[0m
+[ 48%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetTrajectoryList.srv[0m
+[ 48%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsActionGoal.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from niryo_one_msgs/ChangeHardwareVersion.srv[0m
+[ 49%] [34m[1mGenerating C++ code from niryo_one_msgs/MatlabMoveResult.msg[0m
+[ 49%] [34m[1mGenerating Lisp code from niryo_one_msgs/SendCustomDxlValue.srv[0m
+[ 50%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsActionResult.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from niryo_one_msgs/ChangeMotorConfig.srv[0m
+[ 50%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveActionResult[0m
+[ 50%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsActionFeedback.msg[0m
+[ 50%] [34m[1mGenerating C++ code from niryo_one_msgs/Position.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetString.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetCalibrationCam.srv[0m
+[ 51%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsGoal.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetCalibrationCam.srv[0m
+[ 51%] [34m[1mGenerating C++ code from niryo_one_msgs/Trajectory.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from niryo_one_msgs/ObjDetection.srv[0m
+[ 51%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveActionFeedback[0m
+[ 51%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsResult.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from niryo_one_msgs/EditGrip.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from niryo_one_msgs/JoystickJointsFeedback.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from niryo_one_msgs/EditWorkspace.srv[0m
+[ 53%] [34m[1mGenerating C++ code from niryo_one_msgs/ObjectPose.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetTargetPose.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveAction.msg[0m
+[ 54%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveGoal[0m
+[ 54%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetWorkspaceRatio.srv[0m
+[ 55%] [34m[1mGenerating C++ code from niryo_one_msgs/ConveyorFeedback.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveActionGoal.msg[0m
+[ 55%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetWorkspaceList.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from niryo_one_msgs/TakePicture.srv[0m
+[ 56%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveActionResult.msg[0m
+[ 56%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsAction.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from niryo_one_msgs/SetConveyor.srv[0m
+[ 56%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveResult[0m
+[ 56%] [34m[1mGenerating Lisp code from niryo_one_msgs/ControlConveyor.srv[0m
+[ 57%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveActionFeedback.msg[0m
+[ 57%] [34m[1mGenerating Lisp code from niryo_one_msgs/UpdateConveyorId.srv[0m
+[ 57%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsActionGoal.msg[0m
+[ 57%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveGoal.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from niryo_one_msgs/GetWorkspaceRobotPoses.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from niryo_one_msgs/DebugMarkers.srv[0m
+[ 58%] [34m[1mGenerating Python from MSG niryo_one_msgs/RobotMoveFeedback[0m
+[ 58%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsActionResult.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveResult.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from niryo_one_msgs/DebugColorDetection.srv[0m
+[ 58%] Built target niryo_one_msgs_generate_messages_lisp
+[ 58%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMoveFeedback.msg[0m
+[ 59%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolAction.msg[0m
+[ 59%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsActionFeedback.msg[0m
+[ 59%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolAction[0m
+[ 60%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsGoal.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolActionGoal.msg[0m
+[ 60%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsResult.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolActionResult.msg[0m
+[ 60%] [34m[1mGenerating C++ code from niryo_one_msgs/JoystickJointsFeedback.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolActionFeedback.msg[0m
+[ 60%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolActionGoal[0m
+[ 60%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveAction.msg[0m
+[ 61%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveActionGoal.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolGoal.msg[0m
+[ 61%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveActionResult.msg[0m
+[ 62%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolResult.msg[0m
+[ 63%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolActionResult[0m
+[ 63%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveActionFeedback.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ToolFeedback.msg[0m
+[ 63%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveGoal.msg[0m
+[ 64%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveResult.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceAction.msg[0m
+[ 64%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolActionFeedback[0m
+[ 64%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolGoal[0m
+[ 64%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceActionGoal.msg[0m
+[ 64%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMoveFeedback.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceActionResult.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceActionFeedback.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolResult[0m
+[ 65%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolAction.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceGoal.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceResult.msg[0m
+[ 65%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolActionGoal.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SequenceFeedback.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetInt.srv[0m
+[ 67%] [34m[1mGenerating Python from MSG niryo_one_msgs/ToolFeedback[0m
+[ 67%] [34m[1mGenerating EusLisp code from niryo_one_msgs/RobotMove.srv[0m
+[ 67%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolActionResult.msg[0m
+[ 67%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ManageProcess.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetLeds.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetInt.srv[0m
+[ 68%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceAction[0m
+[ 69%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolActionFeedback.msg[0m
+[ 69%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceActionGoal[0m
+[ 69%] [34m[1mGenerating EusLisp code from niryo_one_msgs/PingDxlTool.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from niryo_one_msgs/OpenGripper.srv[0m
+[ 69%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolGoal.msg[0m
+[ 69%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolResult.msg[0m
+[ 69%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceActionResult[0m
+[ 69%] [34m[1mGenerating EusLisp code from niryo_one_msgs/CloseGripper.srv[0m
+[ 69%] [34m[1mGenerating C++ code from niryo_one_msgs/ToolFeedback.msg[0m
+[ 70%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceAction.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from niryo_one_msgs/PullAirVacuumPump.srv[0m
+[ 72%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceActionFeedback[0m
+[ 72%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceActionGoal.msg[0m
+[ 72%] [34m[1mGenerating EusLisp code from niryo_one_msgs/PushAirVacuumPump.srv[0m
+[ 72%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceActionResult.msg[0m
+[ 72%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetDigitalIO.srv[0m
+[ 72%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceActionFeedback.msg[0m
+[ 73%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceGoal.msg[0m
+[ 73%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceGoal[0m
+[ 73%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetDigitalIO.srv[0m
+[ 73%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceResult.msg[0m
+[ 74%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetSequenceList.srv[0m
+[ 74%] [34m[1mGenerating C++ code from niryo_one_msgs/SequenceFeedback.msg[0m
+[ 74%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceResult[0m
+[ 74%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ManageSequence.srv[0m
+[ 74%] [34m[1mGenerating C++ code from niryo_one_msgs/SetInt.srv[0m
+[ 74%] [34m[1mGenerating C++ code from niryo_one_msgs/RobotMove.srv[0m
+[ 74%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetSequenceAutorun.srv[0m
+[ 74%] [34m[1mGenerating Python from MSG niryo_one_msgs/SequenceFeedback[0m
+[ 74%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ManagePosition.srv[0m
+[ 75%] [34m[1mGenerating C++ code from niryo_one_msgs/ManageProcess.srv[0m
+[ 75%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetPositionList.srv[0m
+[ 75%] [34m[1mGenerating C++ code from niryo_one_msgs/SetLeds.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ManageTrajectory.srv[0m
+[ 76%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetInt[0m
+[ 76%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetTrajectoryList.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ChangeHardwareVersion.srv[0m
+[ 76%] [34m[1mGenerating C++ code from niryo_one_msgs/GetInt.srv[0m
+[ 76%] [34m[1mGenerating C++ code from niryo_one_msgs/PingDxlTool.srv[0m
+[ 77%] [34m[1mGenerating Python code from SRV niryo_one_msgs/RobotMove[0m
+[ 77%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SendCustomDxlValue.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ChangeMotorConfig.srv[0m
+[ 79%] [34m[1mGenerating C++ code from niryo_one_msgs/OpenGripper.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetString.srv[0m
+[ 79%] [34m[1mGenerating C++ code from niryo_one_msgs/CloseGripper.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ManageProcess[0m
+[ 79%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetCalibrationCam.srv[0m
+[ 79%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetCalibrationCam.srv[0m
+[ 79%] [34m[1mGenerating C++ code from niryo_one_msgs/PullAirVacuumPump.srv[0m
+[ 79%] [34m[1mGenerating C++ code from niryo_one_msgs/PushAirVacuumPump.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetLeds[0m
+[ 80%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ObjDetection.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from niryo_one_msgs/EditGrip.srv[0m
+[ 81%] [34m[1mGenerating C++ code from niryo_one_msgs/SetDigitalIO.srv[0m
+[ 81%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetInt[0m
+[ 81%] [34m[1mGenerating EusLisp code from niryo_one_msgs/EditWorkspace.srv[0m
+[ 81%] [34m[1mGenerating C++ code from niryo_one_msgs/GetDigitalIO.srv[0m
+[ 81%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetTargetPose.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV niryo_one_msgs/PingDxlTool[0m
+[ 82%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetWorkspaceRatio.srv[0m
+[ 82%] [34m[1mGenerating Python code from SRV niryo_one_msgs/OpenGripper[0m
+[ 82%] [34m[1mGenerating C++ code from niryo_one_msgs/GetSequenceList.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetWorkspaceList.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV niryo_one_msgs/CloseGripper[0m
+[ 83%] [34m[1mGenerating EusLisp code from niryo_one_msgs/TakePicture.srv[0m
+[ 83%] [34m[1mGenerating Python code from SRV niryo_one_msgs/PullAirVacuumPump[0m
+[ 83%] [34m[1mGenerating EusLisp code from niryo_one_msgs/SetConveyor.srv[0m
+[ 83%] [34m[1mGenerating C++ code from niryo_one_msgs/ManageSequence.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from niryo_one_msgs/ControlConveyor.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV niryo_one_msgs/PushAirVacuumPump[0m
+[ 85%] [34m[1mGenerating EusLisp code from niryo_one_msgs/UpdateConveyorId.srv[0m
+[ 85%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetDigitalIO[0m
+[ 85%] [34m[1mGenerating EusLisp code from niryo_one_msgs/GetWorkspaceRobotPoses.srv[0m
+[ 86%] [34m[1mGenerating C++ code from niryo_one_msgs/SetSequenceAutorun.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from niryo_one_msgs/DebugMarkers.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from niryo_one_msgs/DebugColorDetection.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetDigitalIO[0m
+[ 86%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetSequenceList[0m
+[ 87%] [34m[1mGenerating EusLisp manifest code for niryo_one_msgs[0m
+[ 87%] [34m[1mGenerating C++ code from niryo_one_msgs/ManagePosition.srv[0m
+[ 87%] [34m[1mGenerating C++ code from niryo_one_msgs/GetPositionList.srv[0m
+[ 87%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ManageSequence[0m
+[ 87%] [34m[1mGenerating C++ code from niryo_one_msgs/ManageTrajectory.srv[0m
+[ 87%] [34m[1mGenerating C++ code from niryo_one_msgs/GetTrajectoryList.srv[0m
+[ 88%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetSequenceAutorun[0m
+[ 89%] [34m[1mGenerating C++ code from niryo_one_msgs/ChangeHardwareVersion.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ManagePosition[0m
+[ 89%] [34m[1mGenerating C++ code from niryo_one_msgs/SendCustomDxlValue.srv[0m
+[ 89%] Built target niryo_one_msgs_generate_messages_eus
+[ 89%] [34m[1mGenerating C++ code from niryo_one_msgs/ChangeMotorConfig.srv[0m
+[ 89%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetPositionList[0m
+[ 89%] [34m[1mGenerating C++ code from niryo_one_msgs/SetString.srv[0m
+[ 90%] [34m[1mGenerating C++ code from niryo_one_msgs/SetCalibrationCam.srv[0m
+[ 90%] [34m[1mGenerating C++ code from niryo_one_msgs/GetCalibrationCam.srv[0m
+[ 90%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ManageTrajectory[0m
+[ 90%] [34m[1mGenerating C++ code from niryo_one_msgs/ObjDetection.srv[0m
+[ 90%] [34m[1mGenerating C++ code from niryo_one_msgs/EditGrip.srv[0m
+[ 91%] [34m[1mGenerating C++ code from niryo_one_msgs/EditWorkspace.srv[0m
+[ 92%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetTrajectoryList[0m
+[ 92%] [34m[1mGenerating C++ code from niryo_one_msgs/GetTargetPose.srv[0m
+[ 92%] [34m[1mGenerating C++ code from niryo_one_msgs/GetWorkspaceRatio.srv[0m
+[ 92%] [34m[1mGenerating C++ code from niryo_one_msgs/GetWorkspaceList.srv[0m
+[ 92%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ChangeHardwareVersion[0m
+[ 92%] [34m[1mGenerating C++ code from niryo_one_msgs/TakePicture.srv[0m
+[ 93%] [34m[1mGenerating C++ code from niryo_one_msgs/SetConveyor.srv[0m
+[ 93%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SendCustomDxlValue[0m
+[ 93%] [34m[1mGenerating C++ code from niryo_one_msgs/ControlConveyor.srv[0m
+[ 93%] [34m[1mGenerating C++ code from niryo_one_msgs/UpdateConveyorId.srv[0m
+[ 93%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ChangeMotorConfig[0m
+[ 93%] [34m[1mGenerating C++ code from niryo_one_msgs/GetWorkspaceRobotPoses.srv[0m
+[ 94%] [34m[1mGenerating C++ code from niryo_one_msgs/DebugMarkers.srv[0m
+[ 94%] [34m[1mGenerating C++ code from niryo_one_msgs/DebugColorDetection.srv[0m
+[ 95%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetString[0m
+[ 95%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetCalibrationCam[0m
+[ 95%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetCalibrationCam[0m
+[ 95%] Built target niryo_one_msgs_generate_messages_cpp
+[ 95%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ObjDetection[0m
+[ 95%] [34m[1mGenerating Python code from SRV niryo_one_msgs/EditGrip[0m
+[ 96%] [34m[1mGenerating Python code from SRV niryo_one_msgs/EditWorkspace[0m
+[ 96%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetTargetPose[0m
+[ 96%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetWorkspaceRatio[0m
+[ 96%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetWorkspaceList[0m
+[ 97%] [34m[1mGenerating Python code from SRV niryo_one_msgs/TakePicture[0m
+[ 97%] [34m[1mGenerating Python code from SRV niryo_one_msgs/SetConveyor[0m
+[ 97%] [34m[1mGenerating Python code from SRV niryo_one_msgs/ControlConveyor[0m
+[ 97%] [34m[1mGenerating Python code from SRV niryo_one_msgs/UpdateConveyorId[0m
+[ 98%] [34m[1mGenerating Python code from SRV niryo_one_msgs/GetWorkspaceRobotPoses[0m
+[ 98%] [34m[1mGenerating Python code from SRV niryo_one_msgs/DebugMarkers[0m
+[ 98%] [34m[1mGenerating Python code from SRV niryo_one_msgs/DebugColorDetection[0m
+[100%] [34m[1mGenerating Python msg __init__.py for niryo_one_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for niryo_one_msgs[0m
+[100%] Built target niryo_one_msgs_generate_messages_py
+[35m[1mScanning dependencies of target niryo_one_msgs_generate_messages[0m
+[100%] Built target niryo_one_msgs_generate_messages

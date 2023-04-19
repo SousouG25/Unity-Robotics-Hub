@@ -1,0 +1,6 @@
+niryo_one_ros/niryo_one_debug
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/cmake.lock /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/./cmake.lock
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/share/niryo_one_debug/cmake/niryo_one_debugConfig-version.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_debug/cmake/niryo_one_debugConfig-version.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/share/niryo_one_debug/cmake/niryo_one_debugConfig.cmake /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/niryo_one_debug/cmake/niryo_one_debugConfig.cmake
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/lib/niryo_one_debug/dxl_debug_tools /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/niryo_one_debug/dxl_debug_tools
+/home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/.private/niryo_one_debug/lib/pkgconfig/niryo_one_debug.pc /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/niryo_one_debug.pc

@@ -1,0 +1,4 @@
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/libdynamixel_sdk.so
+Symlinking /home/youssefab/Unity-Robotics-Hub/tutorials/pick_and_place/ROS/devel/lib/pkgconfig/dynamixel_sdk.pc
